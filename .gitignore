@@ -1,2 +1,3 @@
 country
 .idea
+*.sqlite3
