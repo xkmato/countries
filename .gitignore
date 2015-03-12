@@ -1,3 +1,4 @@
 country
 .idea
 *.sqlite3
+*.pyc
